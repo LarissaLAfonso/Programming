@@ -1,0 +1,15 @@
+#Poetry
+poetry add --dev pytest
+poetry install
+
+#Anaconda navigator
+#virtualenv
+
+#template = """
+Minha variável x é:
+{{x}}
+"""
+
+#refatoração
+#métodos privados ou públicos (o underscore na classe abaixo signifa que o método é público). Em outras linguagens, como Java, é preciso escrever explicitamente se os métodos são públicos ou privados:
+  #def _render(self):
